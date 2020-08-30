@@ -1,0 +1,14 @@
+- Taking absolute value,
+    import math
+    abs(-5) #5
+
+- Limiting the decimal digits,
+    import math
+    round(6,66666666, 3) #6,667
+
+- Assigning a value to multiple variables on the same line,
+    a = b = c = 0
+    d, e, f = 10, 9.42, "myStr"
+    g = h = [1, 2]
+    i = 3, 4
+    i #(3, 4)
