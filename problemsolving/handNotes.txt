@@ -12,3 +12,8 @@
     g = h = [1, 2]
     i = 3, 4
     i #(3, 4)
+
+- To print on the same line,
+    print("geeks", end =" ") 
+    print("geeksforgeeks")
+    #geeks geeksforgeeks
