@@ -3,7 +3,7 @@
     A Very Big Sum - 03
     Difficulty: Easy
     Date: 31.08.2020
-    https://www.hackerrank.com/challenges/compare-the-triplets/problem
+    https://www.hackerrank.com/challenges/a-very-big-sum/problem
 """
 import math
 import os
