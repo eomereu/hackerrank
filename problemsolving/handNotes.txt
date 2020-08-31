@@ -20,3 +20,6 @@
 
 - Following statement can be written to put spaces between variables while printing,
     print(var_a, var_b) #var_a var_b
+
+- Following code adds as many zeros as one fewer than our given number to the beginning,
+    print("{:03d}".format(1)) #001
