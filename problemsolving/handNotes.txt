@@ -17,3 +17,6 @@
     print("geeks", end =" ") 
     print("geeksforgeeks")
     #geeks geeksforgeeks
+
+- Following statement can be written to put spaces between variables while printing,
+    print(var_a, var_b) #var_a var_b
